@@ -1,5 +1,4 @@
 import time
-import os
 i = 1
 thing = True
 while True:
